@@ -1,5 +1,7 @@
-//implementation of FenwickTree using structs in c++
-
+/*
+ * implementation of FenwickTree using structs in c++
+ *
+ */
 #include <vector>
 
 using namespace std;
